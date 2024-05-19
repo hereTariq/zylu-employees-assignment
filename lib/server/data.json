@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "joiningDate": "2022-01-15T00:00:00Z",
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "joiningDate": "2021-06-30T00:00:00Z",
+        "isActive": false
+    },
+    {
+        "id": 3,
+        "name": "Alice Johnson",
+        "joiningDate": "2023-03-01T00:00:00Z",
+        "isActive": true
+    },
+    {
+        "id": 1,
+        "name": "Michael Johnson",
+        "joiningDate": "2018-04-15T00:00:00Z",
+        "isActive": true
+    },
+    {
+        "id": 4,
+        "name": "Robert Brown",
+        "joiningDate": "2020-11-20T00:00:00Z",
+        "isActive": true
+    },
+    {
+        "id": 5,
+        "name": "Emily Davis",
+        "joiningDate": "2019-09-10T00:00:00Z",
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "name": "Sarah Williams",
+        "joiningDate": "2017-11-25T00:00:00Z",
+        "isActive": true
+    }
+]
